@@ -1,2 +1,2 @@
-# discord.js-Bot
-Discord.jsのテンプレートです。
+# study_maneger_bot
+勉強管理のためのdiscord botです。
